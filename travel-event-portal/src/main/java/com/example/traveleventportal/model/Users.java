@@ -1,4 +1,4 @@
-package com.example.travel_event_portal.model;
+package com.example.traveleventportal.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

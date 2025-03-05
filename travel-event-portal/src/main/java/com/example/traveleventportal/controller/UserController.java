@@ -1,7 +1,7 @@
-package com.example.travel_event_portal.controller;
+package com.example.traveleventportal.controller;
 
-import com.example.travel_event_portal.request.UserRecord;
-import com.example.travel_event_portal.service.UserService;
+import com.example.traveleventportal.request.UserRecord;
+import com.example.traveleventportal.service.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

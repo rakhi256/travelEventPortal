@@ -1,4 +1,4 @@
-package com.example.travel_event_portal;
+package com.example.traveleventportal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

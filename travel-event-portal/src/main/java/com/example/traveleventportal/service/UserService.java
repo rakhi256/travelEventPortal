@@ -1,8 +1,8 @@
-package com.example.travel_event_portal.service;
+package com.example.traveleventportal.service;
 
-import com.example.travel_event_portal.request.UserRecord;
-import com.example.travel_event_portal.model.Users;
-import com.example.travel_event_portal.repository.UserRepository;
+import com.example.traveleventportal.request.UserRecord;
+import com.example.traveleventportal.model.Users;
+import com.example.traveleventportal.repository.UserRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
